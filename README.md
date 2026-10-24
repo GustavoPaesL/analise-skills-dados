@@ -72,3 +72,4 @@ Utilizando a skill **`conferir-csv`** sobre `dados/fornecedores_erro.csv`:
    .\.venv\Scripts\python.exe fornecedores.py
    .\.venv\Scripts\python.exe conferir_fornecedores_erro.py
    ```
+
