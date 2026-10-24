@@ -1,0 +1,6 @@
+# Ignorar ambiente virtual do Python e arquivos temporarios
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
